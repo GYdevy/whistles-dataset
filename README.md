@@ -3,6 +3,9 @@ license: mit
 ---
 # Volleylitics Whistle Detection Dataset
 
+
+[HuggingFace dataset link](https://huggingface.co/datasets/GYdevy/volleyball-whistles)
+
 ## Overview
 
 This dataset contains full match audio recordings and whistle annotations
